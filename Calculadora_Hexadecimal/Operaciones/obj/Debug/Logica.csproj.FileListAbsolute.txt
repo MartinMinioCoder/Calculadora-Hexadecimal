@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\bin\Debug\Logica.dll
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\bin\Debug\Logica.pdb
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\obj\Debug\Logica.dll
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\obj\Debug\Logica.pdb
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\bin\Debug\Comun.dll
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\bin\Debug\Comun.pdb
+C:\Users\marti\Desktop\Calculadora Hexadecimal\Calculadora_Hexadecimal\Operaciones\obj\Debug\Logica.csproj.CopyComplete
